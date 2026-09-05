@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+sellpilot.db
+.pytest_cache/
+.DS_Store

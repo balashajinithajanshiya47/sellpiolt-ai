@@ -1,0 +1,438 @@
+[
+  {
+    "id": "P001",
+    "name": "SoundMax Pro Earbuds",
+    "category": "earbuds",
+    "price": 2499,
+    "battery_hours": 40,
+    "rating": 4.5,
+    "tags": [
+      "wireless",
+      "noise cancellation",
+      "long battery"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P002",
+    "name": "BassPods Lite",
+    "category": "earbuds",
+    "price": 1799,
+    "battery_hours": 28,
+    "rating": 4.2,
+    "tags": [
+      "wireless",
+      "bass",
+      "lightweight"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P003",
+    "name": "AudioMax Elite",
+    "category": "earbuds",
+    "price": 3299,
+    "battery_hours": 50,
+    "rating": 4.7,
+    "tags": [
+      "wireless",
+      "premium",
+      "noise cancellation"
+    ],
+    "stock": 0
+  },
+  {
+    "id": "P004",
+    "name": "Earbud Protective Case",
+    "category": "accessory",
+    "price": 299,
+    "rating": 4.4,
+    "tags": [
+      "earbuds",
+      "protection"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P005",
+    "name": "USB-C Fast Charger",
+    "category": "accessory",
+    "price": 499,
+    "rating": 4.6,
+    "tags": [
+      "charger",
+      "fast charging"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P006",
+    "name": "TechPro 14 Laptop",
+    "category": "laptop",
+    "price": 7999,
+    "rating": 4.6,
+    "tags": [
+      "laptop",
+      "portable",
+      "performance",
+      "student"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P007",
+    "name": "WorkMate 15 Laptop",
+    "category": "laptop",
+    "price": 6499,
+    "rating": 4.4,
+    "tags": [
+      "laptop",
+      "office",
+      "value"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P008",
+    "name": "UltraBook Air 13",
+    "category": "laptop",
+    "price": 8999,
+    "rating": 4.8,
+    "tags": [
+      "laptop",
+      "lightweight",
+      "premium",
+      "long battery"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P009",
+    "name": "Nova X Smartphone",
+    "category": "phone",
+    "price": 6999,
+    "rating": 4.6,
+    "tags": [
+      "smartphone",
+      "5g",
+      "camera"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P010",
+    "name": "PixelGo Lite Phone",
+    "category": "phone",
+    "price": 4999,
+    "rating": 4.3,
+    "tags": [
+      "smartphone",
+      "budget",
+      "5g"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P011",
+    "name": "PowerMax Pro Phone",
+    "category": "phone",
+    "price": 8499,
+    "rating": 4.7,
+    "tags": [
+      "smartphone",
+      "performance",
+      "long battery"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P012",
+    "name": "FitTrack Smart Watch",
+    "category": "watch",
+    "price": 2999,
+    "rating": 4.5,
+    "tags": [
+      "smartwatch",
+      "fitness",
+      "health tracking"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P013",
+    "name": "TimeSync Watch",
+    "category": "watch",
+    "price": 1999,
+    "rating": 4.2,
+    "tags": [
+      "smartwatch",
+      "notifications",
+      "lightweight"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P014",
+    "name": "ActivePro Smart Watch",
+    "category": "watch",
+    "price": 3999,
+    "rating": 4.7,
+    "tags": [
+      "smartwatch",
+      "fitness",
+      "premium",
+      "gps"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P015",
+    "name": "RunFlex Sports Shoes",
+    "category": "shoes",
+    "price": 2499,
+    "rating": 4.5,
+    "tags": [
+      "shoes",
+      "running",
+      "lightweight"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P016",
+    "name": "UrbanStep Casual Shoes",
+    "category": "shoes",
+    "price": 1799,
+    "rating": 4.3,
+    "tags": [
+      "shoes",
+      "casual",
+      "comfortable"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P017",
+    "name": "TrailMax Performance Shoes",
+    "category": "shoes",
+    "price": 3299,
+    "rating": 4.7,
+    "tags": [
+      "shoes",
+      "sports",
+      "durable"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P018",
+    "name": "UrbanCarry Backpack",
+    "category": "bag",
+    "price": 1499,
+    "rating": 4.5,
+    "tags": [
+      "bag",
+      "backpack",
+      "laptop compartment"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P019",
+    "name": "TravelPro Laptop Bag",
+    "category": "bag",
+    "price": 2199,
+    "rating": 4.6,
+    "tags": [
+      "bag",
+      "laptop",
+      "travel"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P020",
+    "name": "Everyday Sling Bag",
+    "category": "bag",
+    "price": 999,
+    "rating": 4.2,
+    "tags": [
+      "bag",
+      "compact",
+      "casual"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P021",
+    "name": "TypePro Mechanical Keyboard",
+    "category": "keyboard",
+    "price": 2499,
+    "rating": 4.6,
+    "tags": [
+      "keyboard",
+      "mechanical",
+      "gaming"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P022",
+    "name": "SlimType Wireless Keyboard",
+    "category": "keyboard",
+    "price": 1299,
+    "rating": 4.4,
+    "tags": [
+      "keyboard",
+      "wireless",
+      "compact"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P023",
+    "name": "OfficeType Keyboard",
+    "category": "keyboard",
+    "price": 899,
+    "rating": 4.2,
+    "tags": [
+      "keyboard",
+      "office",
+      "quiet"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P024",
+    "name": "SpeedClick Wireless Mouse",
+    "category": "mouse",
+    "price": 999,
+    "rating": 4.5,
+    "tags": [
+      "mouse",
+      "wireless",
+      "ergonomic"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P025",
+    "name": "GameGrip Pro Mouse",
+    "category": "mouse",
+    "price": 1799,
+    "rating": 4.7,
+    "tags": [
+      "mouse",
+      "gaming",
+      "precision"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P026",
+    "name": "OfficeClick Silent Mouse",
+    "category": "mouse",
+    "price": 699,
+    "rating": 4.3,
+    "tags": [
+      "mouse",
+      "silent",
+      "office"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P027",
+    "name": "Universal USB-C Cable",
+    "category": "accessory",
+    "price": 249,
+    "rating": 4.5,
+    "tags": [
+      "cable",
+      "usb-c",
+      "charging"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P028",
+    "name": "PowerBank 10000mAh",
+    "category": "accessory",
+    "price": 999,
+    "rating": 4.6,
+    "tags": [
+      "powerbank",
+      "portable",
+      "charging"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P029",
+    "name": "Laptop Cooling Pad",
+    "category": "accessory",
+    "price": 899,
+    "rating": 4.4,
+    "tags": [
+      "laptop",
+      "cooling",
+      "usb"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P030",
+    "name": "Wireless Device Stand",
+    "category": "accessory",
+    "price": 599,
+    "rating": 4.3,
+    "tags": [
+      "stand",
+      "desk",
+      "universal"
+    ],
+    "stock": 12
+  },
+  {
+    "id": "P031",
+    "name": "ProBook 16 Performance Laptop",
+    "category": "laptop",
+    "price": 12999,
+    "rating": 4.8,
+    "tags": [
+      "laptop",
+      "performance",
+      "premium",
+      "student"
+    ],
+    "stock": 3
+  },
+  {
+    "id": "P032",
+    "name": "UltraPhone Pro 5G",
+    "category": "phone",
+    "price": 11999,
+    "rating": 4.8,
+    "tags": [
+      "smartphone",
+      "5g",
+      "premium",
+      "performance"
+    ],
+    "stock": 4
+  },
+  {
+    "id": "P033",
+    "name": "FitTrack Pro GPS Watch",
+    "category": "watch",
+    "price": 10999,
+    "rating": 4.9,
+    "tags": [
+      "smartwatch",
+      "gps",
+      "fitness",
+      "premium"
+    ],
+    "stock": 2
+  }
+]

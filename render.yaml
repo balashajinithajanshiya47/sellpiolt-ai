@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: sellpilot-ai-backend
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn backend.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: RAZORPAY_KEY_ID
+        sync: false
+      - key: RAZORPAY_KEY_SECRET
+        sync: false
+      - key: MAX_ORDER_VALUE
+        value: "10000"
+      - key: MAX_UPSELL_VALUE
+        value: "1000"
+      - key: MAX_UPSELL_PERCENT
+        value: "40"
