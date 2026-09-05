@@ -14,7 +14,7 @@ Unlike a traditional chatbot that only answers customer questions, SellPilot AI 
 
 ### 🚀 Live Application
 
-**https://sellpilot-ai.streamlit.app/**
+**https://sellpilot-ai47.streamlit.app**
 
 ### 💻 GitHub Repository
 
