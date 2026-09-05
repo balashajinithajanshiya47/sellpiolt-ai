@@ -36,7 +36,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-BACKEND_URL = os.getenv("BACKEND_URL", "https://sellpilot-ai-30l8.onrender.com").rstrip("/")
+BACKEND_URL = os.getenv("BACKEND_URL", "https://sellpiolt-ai.onrender.com").rstrip("/")
 MAX_ORDER_VALUE = 10000
 
 
